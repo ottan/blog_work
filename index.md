@@ -1,3 +1,7 @@
+---
+title: Ottan's GitHub Pages
+---
+
 ## Articles
 
 <ul>

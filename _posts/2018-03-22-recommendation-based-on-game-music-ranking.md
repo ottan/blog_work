@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘！
 ---
 
 # 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘！

@@ -1,26 +1,26 @@
 ---
 layout: post
-title: �w�݂�ȂőI�ԃQ�[�����y100�x�̓��[���ʂŊy�Ȕ��@�I
+title: 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘！
 ---
 
-# �w�݂�ȂőI�ԃQ�[�����y100�x�̓��[���ʂŊy�Ȕ��@�I
+# 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘！
 
-## ���k�Y��
+## 今北産業
 
-- �}�C�i�[�Q�[�����y���@�������̂�
-- �w�݂�ȂőI�ԃQ�[�����y100�x�̓��[���ʂ�
-- Colaboratory�Ƌ����t�B���^�����O���g���ă��R�����h�����Ă݂�
+- マイナーゲーム音楽発掘したいので
+- 『みんなで選ぶゲーム音楽100』の投票結果で
+- Colaboratoryと協調フィルタリングを使ってレコメンドさせてみた
 
-## ���@(�֑�)
+## 動機(蛇足)
 
-2015�N���납��w�݂�ȂőI�ԃQ�[�����y100�x�̃����L���O���ʂ����ɁA���Ă��񑾘Y�����쐬���Ă��铮������āA�Q�[�����y�̐V�K���@�������Ă�����Ă��B
-�����A����ɂȂ�̂� 1000 �ʈȏ�Ȃ̂ŁA���W���[�ł͖���������Ȃ�ɕ]������Ă���Ȃ͏E������̂́A���̕]���͂�����̂̃}�C�i�[�ȋȂƂ��͔��@�ł��Ȃ������B
-���Ƃ��΁AMSX �� SCC �̋ȂƂ��͓����Ă��Ȃ��B
-�����ŁA�����D�݂̋Ȃɓ��[���Ă�l�̋Ȃɂ��đ��֊֌W�𒲂ׂĔ��@���邵���Ȃ����Ă��ƂɂȂ�������B
+2015年ごろから『みんなで選ぶゲーム音楽100』のランキング結果を元に、蒲焼さん太郎氏が作成している動画を見て、ゲーム音楽の新規発掘をさせてもらってた。
+ただ、動画になるのが 1000 位以上なので、メジャーでは無いがそれなりに評価されている曲は拾えるものの、一定の評価はあるもののマイナーな曲とかは発掘できなかった。
+たとえば、MSX の SCC の曲とかは入ってこない。
+そこで、自分好みの曲に投票してる人の曲について相関関係を調べて発掘するしかないってことになった次第。
 
-## ����
+## 準備
 
-���O�Ŋ�����̂��ʓ|���������A���̓��[�f�[�^�� Google Spredsheet �ɂ����đ������������AColaboratory ���g���Ă݂�B
+自前で環境つくるのも面倒くさいし、元の投票データが Google Spredsheet にあって相性もいいし、Colaboratory を使ってみる。
 
 
 ## Welcome to GitHub Pages
@@ -59,4 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we窶冤l help you sort it out.

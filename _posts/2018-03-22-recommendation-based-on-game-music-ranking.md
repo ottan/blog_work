@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘！
+title: 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘してみる
 ---
 
-# 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘！
+# 『みんなで選ぶゲーム音楽100』の投票結果で楽曲発掘してみる
 
 ## 今北産業
 
@@ -60,3 +60,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we窶冤l help you sort it out.
+
+

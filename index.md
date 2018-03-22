@@ -1,5 +1,6 @@
 ---
 title: Ottan's GitHub Pages
+project_title:  Ottan's GitHub Pages
 ---
 
 ## Articles
